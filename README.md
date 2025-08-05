@@ -1,4 +1,4 @@
-Olá! Bem-vindo ao meu espaço de anotações e documentação de estudos em cibersegurança. Este repositório, study-notes, é o ponto central onde registro minha jornada de aprendizado, documentando o progresso, os conceitos aprendidos e as descobertas feitas enquanto exploro o vasto e dinâmico campo da segurança da informação.
+Olá! Bem-vindo ao meu espaço de anotações e documentação de estudos em cibersegurança. Este repositório, cyber-security-lab, é o ponto central onde registro minha jornada de aprendizado, documentando o progresso, os conceitos aprendidos e as descobertas feitas enquanto exploro o vasto e dinâmico campo da segurança da informação.
 
 Como estudante de cibersegurança, criei este perfil no GitHub para organizar e compartilhar meu conhecimento. Acredito que a documentação é uma ferramenta poderosa para solidificar o aprendizado e demonstrar a dedicação e a profundidade de conhecimento a recrutadores e colegas.
 
