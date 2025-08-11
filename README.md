@@ -1,4 +1,3 @@
-# 🛡️ Cyber Security Lab – Portfólio & Documentação
 
 Bem-vindo(a) ao meu **portfólio de Cibersegurança**!  
 Este espaço centraliza meus estudos, projetos e práticas na área de **Segurança da Informação**, com foco em **aprendizado contínuo, aplicação prática e documentação profissional**.
