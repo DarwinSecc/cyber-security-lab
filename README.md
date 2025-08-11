@@ -43,8 +43,6 @@ Cada repositório possui **documentação clara e detalhada**, facilitando a com
 - As **ferramentas** utilizadas  
 - O **passo a passo** para reprodução
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tecdarwin)
-
 ---
 
 ## 🚀 Expansão Contínua
@@ -52,3 +50,5 @@ Este perfil está em constante evolução.
 **Novos repositórios, laboratórios e conteúdos serão adicionados** ao longo do tempo, acompanhando meu desenvolvimento profissional e estudos em cibersegurança.
 
 > 💡 Meu objetivo final é manter um **repositório vivo** e relevante, refletindo não apenas o que já sei, mas também tudo o que estou aprendendo.
+>
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tecdarwin)
