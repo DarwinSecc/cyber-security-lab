@@ -26,7 +26,6 @@ Meu objetivo é **demonstrar competências técnicas e práticas** por meio de p
 | **[red-team](https://github.com/DarwinSecc/red-team)** | 🚨 Técnicas e práticas ofensivas para simulação de ataques. |
 | **[blue-team](https://github.com/DarwinSecc/blue-team)** | 🛡️ Estratégias e ferramentas para defesa e monitoramento. |
 | **[ctf-writeups](https://github.com/DarwinSecc/ctf-writeups)** | 🏆 Resolução documentada de desafios Capture The Flag. |
-| **[cyber-security-lab](https://github.com/DarwinSecc/cyber-security-lab)** | 🔬 Laboratórios práticos e experimentos de segurança (repositório principal). |
 
 ---
 
