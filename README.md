@@ -5,6 +5,10 @@
 ## ✅ Certificações
 Algumas certificações/cursos realizados e que estão em andamento:
 > [Google Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/864JLK1NNPV3)
+> [Ethical Hacker](https://www.credly.com/badges/cbb4fc54-2f6e-47a6-98f5-3600fbc3bf1e/linked_in_profile)
+> [Google Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/864JLK1NNPV3)
+> [Google Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/864JLK1NNPV3)
+> [Google Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/864JLK1NNPV3)
 ---
 
 ## 🎯 Objetivo do Perfil
