@@ -2,6 +2,10 @@
 # Olá, eu sou Darwin!  
 **[Programador, Estudante de Cibersegurança, Técnico de TI](https://www.linkedin.com/in/tecdarwin/)**
 
+## ✅ Certificações
+Algumas certificações e cursos feitos e em andamento:
+> [Google Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/864JLK1NNPV3)
+---
 
 ## 🎯 Objetivo do Perfil
 Meu objetivo é **demonstrar competências técnicas e práticas** por meio de projetos reais e laboratórios simulados, abrangendo áreas como:  
