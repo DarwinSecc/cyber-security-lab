@@ -43,6 +43,8 @@ Cada repositório possui **documentação clara e detalhada**, facilitando a com
 - As **ferramentas** utilizadas  
 - O **passo a passo** para reprodução
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tecdarwin)
+
 ---
 
 ## 🚀 Expansão Contínua
