@@ -3,7 +3,7 @@
 **[Programador, Estudante de Cibersegurança, Técnico de TI](https://www.linkedin.com/in/tecdarwin/)**
 
 ## ✅ Certificações
-Algumas certificações e cursos feitos e em andamento:
+Algumas certificações e cursos realizados e que estão em andamento:
 > [Google Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/864JLK1NNPV3)
 ---
 
