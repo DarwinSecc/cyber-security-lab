@@ -1,8 +1,7 @@
 
-Bem-vindo(a) ao meu **portfólio de Cibersegurança**!  
-Este espaço centraliza meus estudos, projetos e práticas na área de **Segurança da Informação**, com foco em **aprendizado contínuo, aplicação prática e documentação profissional**.
+# Olá, eu sou Darwin!  
+**[Programmer, Cybersecurity Student, IT Technician](#)**
 
----
 
 ## 🎯 Objetivo do Perfil
 Meu objetivo é **demonstrar competências técnicas e práticas** por meio de projetos reais e laboratórios simulados, abrangendo áreas como:  
