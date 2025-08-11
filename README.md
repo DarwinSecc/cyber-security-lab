@@ -26,7 +26,6 @@ Meu objetivo é **demonstrar competências técnicas e práticas** por meio de p
 | **[red-team](../red-team)** | 🚨 Técnicas e práticas ofensivas para simulação de ataques. |
 | **[blue-team](../blue-team)** | 🛡️ Estratégias e ferramentas para defesa e monitoramento. |
 | **[ctf-writeups](../ctf-writeups)** | 🏆 Resolução documentada de desafios Capture The Flag. |
-| **[cyber-security-lab](../cyber-security-lab)** | 🔬 Laboratórios práticos e experimentos de segurança (repositório principal). |
 
 ---
 
