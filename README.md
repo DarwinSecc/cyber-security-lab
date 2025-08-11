@@ -4,11 +4,13 @@
 
 ## ✅ Certificações
 Algumas certificações/cursos realizados e que estão em andamento:
-> [Google Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/864JLK1NNPV3)
-> [Ethical Hacker](https://www.credly.com/badges/cbb4fc54-2f6e-47a6-98f5-3600fbc3bf1e/linked_in_profile)
-> [FCF - Technical Introduction to Cybersecurity 2.0](https://training.fortinet.com/local/staticpage/view.php?page=fcf_cybersecurity)
-> [IBM Cybersecurity Analyst](https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst)
-> [Microsoft Cybersecurity Analyst](https://www.coursera.org/professional-certificates/microsoft-cybersecurity-analyst)
+
+- [Google Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/864JLK1NNPV3)  
+- [Ethical Hacker](https://www.credly.com/badges/cbb4fc54-2f6e-47a6-98f5-3600fbc3bf1e/linked_in_profile)  
+- [FCF - Technical Introduction to Cybersecurity 2.0](https://training.fortinet.com/local/staticpage/view.php?page=fcf_cybersecurity)  
+- [IBM Cybersecurity Analyst](https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst)  
+- [Microsoft Cybersecurity Analyst](https://www.coursera.org/professional-certificates/microsoft-cybersecurity-analyst)  
+
 ---
 
 ## 🎯 Objetivo do Perfil
