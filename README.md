@@ -20,7 +20,7 @@ Meu objetivo é **demonstrar competências técnicas e práticas** por meio de p
 
 | Repositório | Descrição |
 |-------------|-----------|
-| **[grc-notes](../[grc-notes](https://github.com/DarwinSecc/grc-notes))** | 📚 Anotações e materiais sobre Governança, Riscos e Conformidade (GRC). |
+| **[grc-notes](../(https://github.com/DarwinSecc/grc-notes))** | 📚 Anotações e materiais sobre Governança, Riscos e Conformidade (GRC). |
 | **[malware-analysis-lab](../malware-analysis-lab)** | 🦠 Laboratório dedicado à análise de malware e engenharia reversa. |
 | **[scripts-cyber](../scripts-cyber)** | ⚙️ Scripts e automações para segurança cibernética. |
 | **[red-team](../red-team)** | 🚨 Técnicas e práticas ofensivas para simulação de ataques. |
