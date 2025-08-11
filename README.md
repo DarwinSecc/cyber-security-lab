@@ -1,54 +1,60 @@
-
 # Olá, eu sou Darwin!  
-**[Programador, Estudante de Cibersegurança, Técnico de TI](https://www.linkedin.com/in/tecdarwin/)**
-
-## ✅ Certificações
-Algumas certificações/cursos realizados e que estão em andamento:
-
-- [Google Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/864JLK1NNPV3)  
-- [Ethical Hacker](https://www.credly.com/badges/cbb4fc54-2f6e-47a6-98f5-3600fbc3bf1e/linked_in_profile)  
-- [FCF - Technical Introduction to Cybersecurity 2.0](https://training.fortinet.com/local/staticpage/view.php?page=fcf_cybersecurity)  
-- [IBM Cybersecurity Analyst](https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst)  
-- [Microsoft Cybersecurity Analyst](https://www.coursera.org/professional-certificates/microsoft-cybersecurity-analyst)  
+**[Programador | Estudante de Cibersegurança | Técnico de TI](https://www.linkedin.com/in/tecdarwin/)**
 
 ---
 
-## 🎯 Objetivo do Perfil
-Meu objetivo é **demonstrar competências técnicas e práticas** por meio de projetos reais e laboratórios simulados, abrangendo áreas como:  
+## ✅ Certificações  
+Aqui estão algumas certificações e cursos que concluí ou estou cursando:
+
+- [Google Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/864JLK1NNPV3)  
+- [Certified Ethical Hacker (CEH)](https://www.credly.com/badges/cbb4fc54-2f6e-47a6-98f5-3600fbc3bf1e/linked_in_profile)  
+- [Fortinet Technical Introduction to Cybersecurity 2.0](https://training.fortinet.com/local/staticpage/view.php?page=fcf_cybersecurity)  
+- [IBM Cybersecurity Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst)  
+- [Microsoft Cybersecurity Analyst Professional Certificate](https://www.coursera.org/professional-certificates/microsoft-cybersecurity-analyst)  
+
+---
+
+## 🎯 Objetivo do Perfil  
+Este perfil tem como propósito demonstrar minhas habilidades técnicas e práticas através de projetos reais e laboratórios simulados nas áreas de:
+
 - 🔹 Segurança ofensiva (Red Team)  
 - 🔹 Segurança defensiva (Blue Team)  
 - 🔹 Análise de malware  
-- 🔹 GRC (Governança, Risco e Conformidade)  
-- 🔹 Resolução de CTFs  
+- 🔹 Governança, Risco e Conformidade (GRC)  
+- 🔹 Resolução de desafios Capture The Flag (CTF)  
 - 🔹 Automação com scripts e ferramentas
 
 ---
 
-## 📂 Repositórios Atuais
+## 📂 Repositórios em Destaque
 
 | Repositório | Descrição |
 |-------------|-----------|
-| **[grc-notes](https://github.com/DarwinSecc/grc-notes)** | 📚 Anotações e materiais sobre Governança, Riscos e Conformidade (GRC). |
-| **[malware-analysis-lab](https://github.com/DarwinSecc/malware-analysis-lab)** | 🦠 Laboratório dedicado à análise de malware e engenharia reversa. |
-| **[scripts-cyber](https://github.com/DarwinSecc/scripts-cyber)** | ⚙️ Scripts e automações para segurança cibernética. |
-| **[red-team](https://github.com/DarwinSecc/red-team)** | 🚨 Técnicas e práticas ofensivas para simulação de ataques. |
-| **[blue-team](https://github.com/DarwinSecc/blue-team)** | 🛡️ Estratégias e ferramentas para defesa e monitoramento. |
-| **[ctf-writeups](https://github.com/DarwinSecc/ctf-writeups)** | 🏆 Resolução documentada de desafios Capture The Flag. |
+| **[grc-notes](https://github.com/DarwinSecc/grc-notes)** | 📚 Anotações e materiais aprofundados sobre Governança, Riscos e Conformidade (GRC). |
+| **[malware-analysis-lab](https://github.com/DarwinSecc/malware-analysis-lab)** | 🦠 Laboratório focado em análise de malware e engenharia reversa. |
+| **[scripts-cyber](https://github.com/DarwinSecc/scripts-cyber)** | ⚙️ Coleção de scripts e automações para segurança cibernética. |
+| **[red-team](https://github.com/DarwinSecc/red-team)** | 🚨 Técnicas e práticas ofensivas para simulações de ataques. |
+| **[blue-team](https://github.com/DarwinSecc/blue-team)** | 🛡️ Estratégias e ferramentas para defesa e monitoramento de redes. |
+| **[ctf-writeups](https://github.com/DarwinSecc/ctf-writeups)** | 🏆 Documentação e soluções para desafios Capture The Flag. |
 
 ---
 
-## 📝 Documentação
-Cada repositório possui **documentação clara e detalhada**, facilitando a compreensão do objetivo, configuração e execução dos projetos. A intenção é que qualquer profissional ou recrutador consiga visualizar rapidamente:  
-- O **propósito** do projeto  
-- As **ferramentas** utilizadas  
-- O **passo a passo** para reprodução
+## 📝 Documentação  
+Cada projeto contém documentação clara e detalhada para facilitar a compreensão:
+
+- Objetivo do projeto  
+- Ferramentas e tecnologias utilizadas  
+- Passo a passo para reprodução e uso  
+
+Assim, qualquer profissional ou recrutador consegue avaliar rapidamente meu trabalho.
 
 ---
 
-## 🚀 Expansão Contínua
-Este perfil está em constante evolução.  
-**Novos repositórios, laboratórios e conteúdos serão adicionados** ao longo do tempo, acompanhando meu desenvolvimento profissional e estudos em cibersegurança.
+## 🚀 Em constante evolução  
+Este perfil está sempre em atualização com novos projetos, laboratórios e conteúdos, acompanhando meu crescimento profissional e estudos contínuos em cibersegurança.
 
-> 💡 Meu objetivo final é manter um **repositório vivo** e relevante, refletindo não apenas o que já sei, mas também tudo o que estou aprendendo.
->
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tecdarwin)
+> 💡 Meu compromisso é manter este portfólio sempre vivo e relevante, refletindo tanto minhas conquistas quanto meu aprendizado contínuo.
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tecdarwin)
