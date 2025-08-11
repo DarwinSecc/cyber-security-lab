@@ -58,4 +58,4 @@ Este perfil está sempre em atualização com novos projetos, laboratórios e co
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tecdarwin)
 [![GitHub](https://img.shields.io/badge/GitHub-Perfil-black?style=for-the-badge&logo=github)](https://github.com/DarwinSecc)
-[![Email](https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail)](mailto:darwinramaell@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail)](mailto:darwin.trindade.cyber@gmail.com)
