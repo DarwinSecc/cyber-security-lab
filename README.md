@@ -1,6 +1,6 @@
 
 # Olá, eu sou Darwin!  
-**[Programmer, Cybersecurity Student, IT Technician](#)**
+**[Programador, Estudande de Cibersegurança, Técnico de TI](#www.linkedin.com/in/tecdarwin)**
 
 
 ## 🎯 Objetivo do Perfil
