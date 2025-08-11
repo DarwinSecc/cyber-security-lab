@@ -2,6 +2,18 @@
 **[Programador | Estudante de Cibersegurança | Técnico de TI](https://www.linkedin.com/in/tecdarwin/)**
 
 ---
+## 🎯 Objetivo do Perfil  
+Este perfil tem como propósito demonstrar minhas habilidades técnicas e práticas através de projetos reais e laboratórios simulados nas áreas de:
+
+- 🔹 Segurança ofensiva (Red Team)  
+- 🔹 Segurança defensiva (Blue Team)  
+- 🔹 Análise de malware  
+- 🔹 Governança, Risco e Conformidade (GRC)  
+- 🔹 Resolução de desafios Capture The Flag (CTF)  
+- 🔹 Automação com scripts e ferramentas
+
+---
+
 
 ## ✅ Certificações  
 Aqui estão algumas certificações e cursos que concluí ou estou cursando:
@@ -14,17 +26,6 @@ Aqui estão algumas certificações e cursos que concluí ou estou cursando:
 
 ---
 
-## 🎯 Objetivo do Perfil  
-Este perfil tem como propósito demonstrar minhas habilidades técnicas e práticas através de projetos reais e laboratórios simulados nas áreas de:
-
-- 🔹 Segurança ofensiva (Red Team)  
-- 🔹 Segurança defensiva (Blue Team)  
-- 🔹 Análise de malware  
-- 🔹 Governança, Risco e Conformidade (GRC)  
-- 🔹 Resolução de desafios Capture The Flag (CTF)  
-- 🔹 Automação com scripts e ferramentas
-
----
 
 ## 📂 Repositórios em Destaque
 
